@@ -15,7 +15,7 @@
 - 💬 Ask me about **Full Stack Dev, AI/RAG Pipelines, FARM Stack**
 - ⚡ Fun fact: I love **breaking complicated stuff** so I can rebuild it better
 - 📫 Reach me at **[mohammadishaque032@gmail.com](mailto:mohammadishaque032@gmail.com)**
-- 📄 Check out my **[Resume](https://github.com/mohammadishaque1/mohammadishaque1/raw/main/resume.pdf)**
+- 📄 Check out my **[Resume](https://github.com/MOHAMMADISHAQUE/mohammadishaque1/raw/main/resume.pdf)**
 
 <br clear="right"/>
 
@@ -30,13 +30,13 @@
   <a href="mailto:mohammadishaque032@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/mohammadishaque1" target="_blank">
+  <a href="https://github.com/MOHAMMADISHAQUE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.hackerrank.com/mohammadishaque1" target="_blank">
+  <a href="https://www.hackerrank.com/MOHAMMADISHAQUE" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://github.com/mohammadishaque1/mohammadishaque1/raw/main/resume.pdf" target="_blank">
+  <a href="https://github.com/MOHAMMADISHAQUE/mohammadishaque1/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -86,13 +86,12 @@
 
 ---
 
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🌐 [Portfolio Website](https://ishaaque-portfolio.netlify.app) | Fully responsive personal portfolio with CI/CD | React, Vite, Netlify |
-| 📊 [Sorting Visualizer](https://github.com/mohammadishaque1) | Interactive visualizer for sorting algorithms | JavaScript, HTML, CSS |
+| 📊 [Sorting Visualizer](https://github.com/MOHAMMADISHAQUE) | Interactive visualizer for sorting algorithms | JavaScript, HTML, CSS |
 | 🤖 RAG System *(in progress)* | Retrieval-Augmented Generation pipeline | Python, FastAPI, LangChain |
 
 ---
@@ -106,5 +105,5 @@
 
 <div align="center">
   <br/>
-  <em><b>Always shipping, always learning — drop a message and let's build something remarkable together. 🚀</em>
+  <em><b>Always shipping, always learning — drop a message and let's build something remarkable together. 🚀</b></em>
 </div>

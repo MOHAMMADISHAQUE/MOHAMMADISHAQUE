@@ -1,109 +1,113 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Ishaque;AI+Engineer+%7C+Full+Stack+Dev;Building+RAG+Systems+%26+GenAI+Apps;Automating+the+complicated+stuff+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:0A0A0A&height=190&section=header&text=MOHAMMAD%20ISHAQUE&fontSize=44&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=AI%20Platform%20Engineering%20Specialist&descAlignY=55&descSize=18&descColor=E6E6E6"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=Designing+Scalable+AI+Platforms;Building+RAG+%26+LLM+Infrastructure;FastAPI+%C2%B7+LangChain+%C2%B7+Cloud+Native;Turning+Prototypes+Into+Production" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0A0A0A&height=3&width=1000" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mohammadishaque1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
+<a href="mailto:mohammadishaque032@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Gmail"/></a>
+<a href="https://github.com/MOHAMMADISHAQUE" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/></a>
+<a href="https://www.hackerrank.com/MOHAMMADISHAQUE" target="_blank"><img src="https://img.shields.io/badge/HackerRank-0A0A0A?style=for-the-badge&logo=HackerRank&logoColor=00D9FF" alt="HackerRank"/></a>
+<a href="https://github.com/MOHAMMADISHAQUE/mohammadishaque1/raw/main/ISHAQUE_RESUME.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D9FF" alt="Resume"/></a>
+
 </div>
 
 <br/>
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## ⚙️ About Me
 
-### 🧑‍💻 About Me
-
-- 🔭 Currently building a **RAG System** with advanced retrieval pipelines
-- 🌱 Leveling up in **FastAPI · GenAI · LLMs**
-- 👯 Open to collaborate on **Cloud & AI projects**
-- 🚀 Working as **Product Engineer @ Emergent**, Bengaluru
-- 💬 Ask me about **Full Stack Dev, AI/RAG Pipelines, FARM Stack**
+- 🧠 **AI Platform Engineering Specialist @ Emergent**, Bengaluru — building the infrastructure that AI runs on
+- 🔭 Currently designing a **RAG platform** with advanced retrieval & orchestration pipelines
+- 🌱 Deepening expertise in **LLM infra · FastAPI · GenAI platform design**
+- 👯 Open to collaborate on **AI platform & cloud infrastructure projects**
+- 💬 Ask me about **AI/RAG Pipelines, Platform Engineering, Full Stack Dev, FARM Stack**
 - ⚡ Fun fact: I love **breaking complicated stuff** so I can rebuild it better
 - 📫 Reach me at **[mohammadishaque032@gmail.com](mailto:mohammadishaque032@gmail.com)**
-- 📄 Check out my **[Resume](https://github.com/MOHAMMADISHAQUE/mohammadishaque1/raw/main/resume.pdf)**
 
-<br clear="right"/>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:00D9FF,100:0A0A0A&height=2&width=1000" />
 
-### 🌐 Connect with Me
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammadishaque1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohammadishaque032@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/MOHAMMADISHAQUE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.hackerrank.com/MOHAMMADISHAQUE" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://github.com/MOHAMMADISHAQUE/mohammadishaque1/raw/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+`Languages`
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=00D9FF)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+`Frontend`
 
-**Frontend**
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=00D9FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=flat-square&logo=bootstrap&logoColor=00D9FF)
+![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=flat-square&logo=vite&logoColor=00D9FF)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+`Backend & Platform`
 
-**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=00D9FF)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=00D9FF)
+![Express.js](https://img.shields.io/badge/Express.js-0A0A0A?style=flat-square&logo=express&logoColor=00D9FF)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+`Databases`
 
-**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=00D9FF)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=00D9FF)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+`DevOps & Cloud`
 
-**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=00D9FF)
+![GCP](https://img.shields.io/badge/Google_Cloud-0A0A0A?style=flat-square&logo=google-cloud&logoColor=00D9FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=flat-square&logo=github-actions&logoColor=00D9FF)
+![Grafana](https://img.shields.io/badge/Grafana-0A0A0A?style=flat-square&logo=grafana&logoColor=00D9FF)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+`AI / GenAI Platform`
 
-**AI / GenAI**
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=langchain&logoColor=00D9FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=flat-square&logo=openai&logoColor=00D9FF)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0A?style=flat-square&logo=huggingface&logoColor=00D9FF)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+</div>
 
----
+<br/>
 
-### 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:00D9FF,100:0A0A0A&height=2&width=1000" />
+
+<br/>
+
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
+|---|---|---|
 | 🌐 [Portfolio Website](https://ishaaque-portfolio.netlify.app) | Fully responsive personal portfolio with CI/CD | React, Vite, Netlify |
 | 📊 [Sorting Visualizer](https://github.com/MOHAMMADISHAQUE) | Interactive visualizer for sorting algorithms | JavaScript, HTML, CSS |
-| 🤖 RAG System *(in progress)* | Retrieval-Augmented Generation pipeline | Python, FastAPI, LangChain |
+| 🤖 RAG Platform *(in progress)* | Retrieval-Augmented Generation infrastructure | Python, FastAPI, LangChain |
 
----
+<br/>
 
-### 🎓 Certifications
+## 🎓 Certifications
 
 - 🏅 **The Complete Web Development Bootcamp** — Udemy
 - 🏅 **Data Structures and Algorithms in Java** — Udemy
 
----
+<br/>
 
 <div align="center">
-  <br/>
-  <em><b>Always shipping, always learning — drop a message and let's build something remarkable together. 🚀</b></em>
+
+<em><b>Always shipping, always learning — drop a message and let's build something remarkable together. 🚀</b></em>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:0A0A0A&height=100&section=footer"/>
+
 </div>
